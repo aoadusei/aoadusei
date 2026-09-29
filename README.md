@@ -23,7 +23,7 @@ My research sits at the intersection of **Applied Mathematics, Computer Vision, 
 
 ---
 
-### 📌 Selected Projects & Research Repositories
+### 📌 Research Experience
 * **[Respiratory-Rate-Estimation-CV](#)**: Spatiotemporal computer vision pipeline for non-contact chest-wall kinematic extraction.
 * **[CLP-Growth-Phenotyping](#)**: Unsupervised clustering and trajectory analysis of infant longitudinal growth metrics.
 * **[TDA-Breast-Cancer-Classification](#)**: Computational topology and persistent homology applied to high-dimensional clinical point clouds.
