@@ -4,7 +4,7 @@
 M.Phil. Candidate at the **National Institute for Mathematical Sciences (NIMS) | KNUST**  
 NIH DS-CHANGE Scholar (in partnership with the **University of Washington / Seattle Children's Research Institute**)
 
-🌐 [Personal Academic Website](https://aoadusei.github.io) • 💼 [LinkedIn](https://www.linkedin.com/in/abraham-owusu-adusei-35108119a/) • 📧 [Email](mailto:aoadusei5@st.knust.edu.gh)
+🌐 [Personal Academic Website](https://aoadusei.github.io) • 💼 [LinkedIn](https://www.linkedin.com/in/abraham-owusu-adusei-9196b033a/) • 📧 [Email](mailto:aduseiabraham18@gmail.com)
 
 ---
 
